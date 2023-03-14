@@ -1,0 +1,14 @@
+str = "Oyola"
+print(len(str))
+
+y = 4
+x = 2
+
+h = x+y
+print("Answer  of h: ", h)
+
+y = 3
+h = 2
+
+x = y + h
+print("answer of x:", x)
